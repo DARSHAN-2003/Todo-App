@@ -1,14 +1,14 @@
 [
     {
       "id": 1,
-      "title": "Sample Task 1",
-      "description": "This is a description for task 1.",
+      "title": "make a react oroject",
+      "description": "I want to create this project by the end of the week",
       "done": false,
       "updatedAt": "2024-08-01T12:00:00Z"
     },
     {
       "id": 2,
-      "title": "Sample Task 2",
+      "title": "to make an nextJS application",
       "description": "This is a description for task 2.",
       "done": false,
       "updatedAt": "2024-08-02T12:00:00Z"
