@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-Overview of project system design:
+## Overview of project system design:
 1. Frontend
 1.1. pages and Components
 app/page.js: The main page where tasks are displayed and managed.
